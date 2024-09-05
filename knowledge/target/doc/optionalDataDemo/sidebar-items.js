@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["main","sigma"],"struct":["Survey"]};

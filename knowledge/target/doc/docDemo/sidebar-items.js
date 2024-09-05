@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["Color"],"fn":["main"],"struct":["Mail"]};

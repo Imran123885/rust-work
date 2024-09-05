@@ -1,0 +1,1 @@
+searchState.loadedDescShard("docDemo", 0, "THIS IS A DOCUMENTATION COMMENT\nI WILL BE THE BEST AT RUST INSHALLAH\nReturns the argument unchanged.\nReturns the argument unchanged.\nCalls <code>U::from(self)</code>.\nCalls <code>U::from(self)</code>.\nDocumenation is him")

@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"deriveDemo":[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.80.1/core/marker/trait.Copy.html\" title=\"trait core::marker::Copy\">Copy</a> for <a class=\"enum\" href=\"deriveDemo/enum.Position.html\" title=\"enum deriveDemo::Position\">Position</a>"],["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.80.1/core/marker/trait.Copy.html\" title=\"trait core::marker::Copy\">Copy</a> for <a class=\"struct\" href=\"deriveDemo/struct.Employee.html\" title=\"struct deriveDemo::Employee\">Employee</a>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
